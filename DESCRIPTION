@@ -1,0 +1,8 @@
+Package: pokeme
+Title: Text Message Status Updates from R.
+Version: 0.0.1.9000
+Authors@R: person("Alex", "Shum", email = "Alex@ALShum.com", role = c("aut", "cre"))
+Description: Interfaces with Twilio API to send you text messages notifications for your R jobs.
+Depends: R (>= 3.2.2)
+License: What license is it under?
+LazyData: true
